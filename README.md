@@ -21,6 +21,3 @@ View the live demo [here](https://lambrugeorge.github.io/animated-template/).
 
 ![Screenshot 1](1.png)
 ![Screenshot 2](2.png)
-
-## Author
-Author's Name - @ZTM-Academy
